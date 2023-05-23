@@ -1,4 +1,4 @@
 boto3
 pandas
 notebook
-psycopg2
+sqlalchemy
